@@ -122,7 +122,7 @@
                 app:layout_constraintEnd_toEndOf="@+id/vegan_textview"
                 app:layout_constraintStart_toStartOf="@+id/vegan_textview"
                 app:layout_constraintTop_toTopOf="@+id/clock_imageview"
-                app:srcCompat="@drawable/ic_vegan"
+                 app:srcCompat="@drawable/ic_vegan"
                 app:tint="@color/lightMediumGray" />
 
             <TextView
